@@ -1,0 +1,3 @@
+demoClientWebService-ear/target/*
+demoClientWebService-ejb/target/*
+demoClientWebService-web/target/*
